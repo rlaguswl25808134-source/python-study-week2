@@ -1,4 +1,20 @@
-# 🐍 Python 기초 스터디 1주차 기록
+# 🐍 AID 파이썬 & 머신러닝 스터디 기록
+
+---
+
+## 📌 노트 바로 보기
+
+| 주차 | 주제 | 노트 | 웹 |
+|---|---|---|---|
+| 1주차 | Python 기초 (타입 ~ 문자열, 출력/연산자/조건문) | [`Python_Study_Week02_Part1.md`](Python_Study_Week02_Part1.md) | [index.html](https://rlaguswl25808134-source.github.io/python-study-week2/) |
+| 2주차 | 머신러닝 기초 (KNN, numpy/matplotlib/scikit-learn) | [`ML_Study_Week02.md`](ML_Study_Week02.md) | [ml-week2.html](https://rlaguswl25808134-source.github.io/python-study-week2/ml-week2.html) |
+
+> 각 노트는 **Markdown 원본**과 **웹으로 볼 수 있는 HTML** 두 가지로 정리해 두었습니다.
+> `ml-week2.html` 은 `python build_site.py` 로 다시 생성할 수 있습니다.
+
+---
+
+# 1주차 — Python 기초
 
 기본 문법을 배우면서 생긴 궁금증을 AI에게 직접 물어보고 정리한 노트입니다.
 내용이 깊지는 않고, **배운 내용을 설명하는 느낌**으로 가볍게 적었습니다.
